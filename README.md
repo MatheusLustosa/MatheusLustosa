@@ -4,7 +4,7 @@
 
 <p align="center">
   Ola,que bom te ver por aqui.😄 <br>Me,chamo Matheus <strong>,um desenvolvedor emergente</strong>! <br> Estou fazendo cursos e me aprimorando para me tornar um <strong>software engineer</strong>.<br />
-<strong>Começar a desenvolver </strong>me trouxe<strong> uma nova vida, bem como, novos sonhos </strong>do que <strong><strong>eu quero me tornar</strong>.<br>
+<strong>Começar a desenvolver </strong>me trouxe<strong> uma nova vida, bem como novos sonhos </strong>do que <strong><strong>eu quero me tornar</strong>.<br>
   Atualmente estou me aprofundando em back end java(com SQL e Spring boot) a partir do NEXT.Além disso, também possuo conhecimento em Pythom,e frontend(html,css,Javascript)
 
 <p align="center">
