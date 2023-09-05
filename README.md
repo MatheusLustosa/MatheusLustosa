@@ -1,7 +1,27 @@
-### Ola😄
-Me chamo Matheus Lustosa,possuo conhecimento de front-end(html,css,java script,react) 
-e atualmente estou estudando back-end(java,pyton,SQL,Spring Boot)pelo NEXT
+<div align="center">
+<img src="https://github.com/MatheusLustosa/MatheusLustosa/assets/108696459/1fe327b7-62f6-4276-817b-322a3bde90f8)" width="700px"> 
+</div>
 
+<p align="center">
+  Ola",que bom te ver por aqui.😄 <br>Me,chamo Matheus <strong>,um desenvolverdor emergente</strong>! <br> Estou fazendo cursos e me aprimorando para me tornar um <strong>software engineer</strong>.<br />
+<strong>Começar a desenvolver </strong>me trouxe<strong> uma nova vida, bem como, novos sonhos </strong>do que <strong>eu quero ser</strong> e o'que <strong>eu quero me tornar</strong>.<br>
+  Atualmente estou me aprofundando em back end java(com SQL e Spring boot) a partir do NEXT.Além disso, ta,bem possuo conhecimento em Pythom,e frontend(html,css,Javascript)
 
+<p align="center">
+  💼 Skills: <strong>Atravessar obstaculos com determinção, e trabalho em grupo.</strong>
+</p>
 
+<p align="center">
+  👩‍💻  Stack: <strong>Backend Java, Frontend JavaScript, HTML, CSS.</strong>
+</p>
 
+<p align="center">
+  🚀  Learning: <strong>Pythom,React.</strong>
+</p>
+
+<p align="center">
+  💌 Connect with me:: ⤵️
+</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/matheus-lustosa-827010242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="http://wa.me/5581995489078" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
