@@ -7,9 +7,6 @@
 <strong>Começar a desenvolver </strong>me trouxe<strong> uma nova vida, bem como novos sonhos </strong>do que <strong><strong>eu quero me tornar</strong>.<br>
   Atualmente estou me aprofundando em back end java(com SQL e Spring boot) a partir do NEXT.Além disso, também possuo conhecimento em Pythom,e frontend(html,css,Javascript)
 
-<p align="center">
-  💼 Skills: <strong>Atravessar obstaculos com determinção, e trabalho em grupo.</strong>
-</p>
 
 <p align="center">
   👩‍💻  Stack: <strong>Backend Java, Frontend JavaScript, HTML, CSS.</strong>
