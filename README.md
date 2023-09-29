@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  🚀  Learning: <strong>Pythom,React.</strong>
+  🚀  Learning: <strong>Pythom, Ruby, React.</strong>
 </p>
 
 <p align="center">
