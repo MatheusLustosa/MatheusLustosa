@@ -3,21 +3,21 @@
 </div>
 
 <p align="center">
-  Ola, que bom te ver por aqui.😄 <br>Me chamo Matheus, um <strong> desenvolvedor emergente</strong>! <br> Estou fazendo cursos e me aprimorando para me tornar um <strong>software engineer</strong>.<br />
+  Ola, que bom te ver por aqui.😄 <br>Me chamo Matheus, um <strong> desenvolvedor emergente</strong>! <br> Estou fazendo cursos e me aprimorando para me tornar um <strong>Engenheiro de Software </strong>.<br />
 <strong>Começar a desenvolver </strong>me trouxe<strong> uma nova vida, bem como novos sonhos </strong>do que <strong><strong>eu quero me tornar</strong>.<br>
   Atualmente estou me aprofundando em back end java(com SQL e Spring boot) a partir do NEXT. Além disso, também possuo conhecimento em Pythom, e frontend(html,css,Javascript)
 
 
 <p align="center">
-  👩‍💻  Stack: <strong>Backend Java, Frontend JavaScript, HTML, CSS.</strong>
+  👩‍💻  Tecnologias: <strong>Backend Java, Frontend JavaScript, HTML, CSS.</strong>
 </p>
 
 <p align="center">
-  🚀  Learning: <strong>Pythom, Ruby, React.</strong>
+  🚀  Aprendendo: <strong>Pythom, Ruby, React.</strong>
 </p>
 
 <p align="center">
-  💌 Connect with me:: ⤵️
+  💌 Meus contatos:: ⤵️
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/matheus-lustosa-827010242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
