@@ -27,6 +27,7 @@ minhas habilidades na área.
   
 [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MatheusLustosa&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/MatheusLustosa/github-readme-stats#gh-dark-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLustosa&layout=compact&theme=dark&cache_seconds=1800)
+
+
 <img src="https://github.com/MatheusLustosa/MatheusLustosa/assets/108696459/95b26b77-2479-48e1-8fac-6fd447f2b6cc" width="100px"> 
-</div>
 
