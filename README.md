@@ -8,7 +8,7 @@ estou focado em explorar o amplo mercado de desenvolvimento de software e aprimo
 minhas habilidades na área. 
 
 <p align="center">
-  👩‍💻  Tecnologias: <strong>Backend:</strong> Java(Spring Boot), Python(Django) <strong>Frontend</strong> JavaScript, HTML, CSS.
+  👩‍💻  Tecnologias: <strong>Backend:</strong> Java(Spring Boot), Python(Django) <strong>Frontend</strong> TypeScript, Angular, JavaScript, HTML, CSS.
 </p>
 
 <p align="center">
