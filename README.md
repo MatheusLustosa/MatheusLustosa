@@ -3,12 +3,12 @@
 </div>
 
 <p align="center">
-  Estudante de Ciência da Computação, 3º período, graduado em Psicologia e apaixonado pela área de tecnologia,
+  Estudante de Ciência da Computação, 4º período, graduado em Psicologia e apaixonado pela área de tecnologia,
 estou focado em explorar o amplo mercado de desenvolvimento de software e aprimorar constantemente
 minhas habilidades na área. 
 
 <p align="center">
-  👩‍💻  Tecnologias: <strong>Backend:</strong> Java(Spring Boot), Python(Django) <strong>Frontend</strong> TypeScript, Angular, JavaScript, HTML, CSS.
+  👩‍💻  Tecnologias: <strong>Backend:</strong> Java(Spring Boot), Python(Django) <strong>Frontend</strong> TypeScript(Angular), JavaScript, HTML, CSS.
 </p>
 
 <p align="center">
